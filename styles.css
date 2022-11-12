@@ -1,0 +1,167 @@
+/* HEADER */
+
+header{
+    background-image: url("images/passport.jpg");
+    background-size: 100%;
+    background-position: center;
+    height:300px;
+    padding: 20px;
+    text-align: center;
+}
+
+/* BODY */
+.feature-box.nav{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+button{
+    margin: auto;
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid aliceblue;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+span{
+    background:aliceblue;
+    height: 100%;
+    width: 0%;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0.5s;
+}
+button:hover span{
+    width: 100%;
+}
+button:hover{
+    border: none;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color: #153983;
+}
+a:active{
+    color: #153983;
+}
+body{
+    background: #153983;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+table{
+    text-align: center;
+    border-radius: 0%;
+    color: #153983;
+    background-color: #153983;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+td{
+    text-align: center;
+    margin: 10px;
+}
+section{
+    display: flex;
+}
+section figure{
+    margin: auto;
+    width: 200px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+section figure img{
+    border-radius: 50%;
+    width: 200px;
+}
+.feature-box.question table td{
+    background-color: aliceblue;
+    color: red;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 100%;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    border-radius: 50px;
+
+} 
+.feature-box.stn table th{
+    background-color: aliceblue;
+    color: red;
+    border-collapse: collapse;
+    text-align: center;
+    align-items: center;
+    font-size: 100%;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 50px;
+}
+.feature-box.steps table{
+    background-color: aliceblue;
+    color: red;
+    border-collapse: collapse;
+    align-items: center;
+    font-size: 100%;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
+.feature-box.sources{
+    display: flex;
+    justify-content: center;
+}
+.feature-box.sources table{
+    background-color: aliceblue;
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 50px;
+}
+.feature-box.sources td{
+    text-align: center;
+    color: red;
+}
+.feature-box.quiz{
+    display: flex;
+    justify-content: center;
+}
+.feature-box.quiz table{
+    background-color: aliceblue;
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 50px;
+}
+.feature-box.quiz td{
+    text-align: center;
+    color: red;
+}
+iframe{
+    margin: 100px;
+    width: 1300px;
+    height: 1800px;
+    display: flex;
+    justify-content: center;
+}
