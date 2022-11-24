@@ -1,0 +1,19 @@
+body{
+    background-color: #57313B;
+}
+h3{
+    text-align: left
+}
+table{
+    background-color:#87929D;
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 50px;
+    margin: 10px;
+
+}
+td{
+    text-align: right;
+    color: #E6ECEA;
+    padding: 10px;
+}
