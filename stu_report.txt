@@ -1,0 +1,70 @@
+
+************CSC 230 Grade Report***********
+Report Date/Time        : 2022-11-28 21:06:27.904213
+Total number of students: 57
+Average student grade   : 75.24
+Total number of A grades: 4
+Total number of B grades: 15
+Total number of C grades: 25
+Total number of D grades: 10
+Total number of F grades: 3
+*******************************************
+NAME                HW	MID	FIN	FINAL GRADE
+Cho, Dianne       	92	90	91	   A
+Anderson, Manuel  	89	92	94	   A
+Thompson, Yani    	63	74	59	   D
+Ortiz, Graciela   	81	76	79	   C
+Wilson, Danielle  	100	89	94	   A
+Smith, Steven     	75	60	63	   D
+Johnson, Angelo   	91	71	61	   C
+Williams, Megan   	53	0	61	   F
+Brown, Johanna    	65	69	77	   C
+Jones, John       	87	86	58	   C
+Garcia, Alicia    	64	90	68	   C
+Miller, Ronald    	62	43	57	   F
+Davis, Brian      	99	72	96	   B
+Rodriguez, Luis   	95	62	97	   B
+Martinez, Philip  	66	69	94	   C
+Hernandez, Lakeesha	78	59	64	   D
+Lopez, Ellen      	63	62	99	   C
+Gonzalez, Lillie  	62	91	59	   C
+Wilson, Rolando   	0	54	58	   F
+Anderson, Valerie 	92	93	76	   B
+Thomas, Armando   	91	72	67	   C
+Taylor, Emma      	95	66	79	   B
+Moore, James      	64	85	74	   C
+Jackson, Jamie    	74	59	93	   C
+Cho, Ramon        	97	78	79	   B
+Lee, Tamara       	68	68	73	   D
+Perez, Daniel     	63	72	59	   D
+Thompson, Daniel  	81	90	75	   B
+White, Danielle   	58	68	66	   D
+Harris, Kenneth   	85	71	78	   C
+Sanchez, Monica   	90	76	78	   B
+Clark, Anita      	84	98	71	   B
+Ramirez, Wendy    	73	57	100	   C
+Lewis, George     	58	77	85	   C
+RobFLson, Gloria  	68	77	72	   C
+Walker, Rhonda    	60	71	77	   D
+Young, Mohammed   	63	84	74	   C
+Allen, April      	57	60	77	   D
+Ortiz, Carrie     	88	74	57	   C
+Wright, Christopher	100	69	83	   B
+Scott, Gary       	57	75	70	   D
+Torres, Leroy     	57	87	80	   C
+Nguyen, Marcus    	100	63	57	   C
+Hill, Marjorie    	91	91	76	   B
+Flores, Mark      	95	95	72	   B
+Green, Jason      	93	61	59	   C
+Adams, Joseph     	97	89	93	   A
+Nelson, Leslie    	62	73	73	   D
+Baker, Anthony    	60	72	79	   C
+Hall, Esther      	69	80	80	   C
+Rivera, Katrina   	72	86	99	   B
+Campbell, Matthew 	92	74	75	   B
+Mitchell, Nathan  	98	78	67	   B
+Carter, Eduardo   	84	63	77	   C
+Roberts, Paul     	73	80	72	   C
+Williams, Pauline 	83	66	85	   C
+Brown, David      	80	82	84	   B
+*******************************************
