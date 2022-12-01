@@ -1,0 +1,24 @@
+body{
+    background-color: #607082;
+}
+h3{
+    text-align: left
+}
+th{
+    text-align: center;
+    border-collapse: collapse;
+}
+table{
+    background-color:#C6C6C0;
+    border: 7px solid #607082;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px;
+    text-align: center;
+}
+td{
+    border: 7px solid #607082;
+    text-align: center;
+    color: #45414A;
+    padding: 10px;
+}
